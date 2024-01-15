@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otobus_bileti_uygulaması", "otobus_bileti_uygulaması\otobus_bileti_uygulaması.csproj", "{C75BF197-FCD8-483D-89F6-177F80DD8905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C75BF197-FCD8-483D-89F6-177F80DD8905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75BF197-FCD8-483D-89F6-177F80DD8905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75BF197-FCD8-483D-89F6-177F80DD8905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75BF197-FCD8-483D-89F6-177F80DD8905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D861F494-3A3B-4D3F-A7E5-0F5AC292A406}
+	EndGlobalSection
+EndGlobal

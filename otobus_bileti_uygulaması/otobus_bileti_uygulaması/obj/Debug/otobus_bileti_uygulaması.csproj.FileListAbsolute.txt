@@ -1,0 +1,20 @@
+C:\Users\MELİH\Desktop\Lessons\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\bin\Debug\otobus_bileti_uygulaması.exe.config
+C:\Users\MELİH\Desktop\Lessons\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\bin\Debug\otobus_bileti_uygulaması.exe
+C:\Users\MELİH\Desktop\Lessons\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\bin\Debug\otobus_bileti_uygulaması.pdb
+C:\Users\MELİH\Desktop\Lessons\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.csproj.AssemblyReference.cache
+C:\Users\MELİH\Desktop\Lessons\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.Form1.resources
+C:\Users\MELİH\Desktop\Lessons\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.Properties.Resources.resources
+C:\Users\MELİH\Desktop\Lessons\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.csproj.GenerateResource.cache
+C:\Users\MELİH\Desktop\Lessons\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\MELİH\Desktop\Lessons\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.exe
+C:\Users\MELİH\Desktop\Lessons\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.pdb
+H:\Lessons 2.1\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\bin\Debug\otobus_bileti_uygulaması.exe.config
+H:\Lessons 2.1\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\bin\Debug\otobus_bileti_uygulaması.exe
+H:\Lessons 2.1\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\bin\Debug\otobus_bileti_uygulaması.pdb
+H:\Lessons 2.1\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.csproj.AssemblyReference.cache
+H:\Lessons 2.1\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.Form1.resources
+H:\Lessons 2.1\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.Properties.Resources.resources
+H:\Lessons 2.1\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.csproj.GenerateResource.cache
+H:\Lessons 2.1\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.csproj.CoreCompileInputs.cache
+H:\Lessons 2.1\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.exe
+H:\Lessons 2.1\Görsel Programlama\kodlar\otobus_bileti_uygulaması\otobus_bileti_uygulaması\obj\Debug\otobus_bileti_uygulaması.pdb
